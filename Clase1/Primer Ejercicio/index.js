@@ -17,10 +17,10 @@ const AZUCAR_INGREDIENTE = 5
 
 //INGREDIENTES QUE TENGO
 
-var huevos = 7
-var chocolate = 3
-var harina = 3
-var azucar = 13
+var huevos = 14
+var chocolate = 9
+var harina = 9
+var azucar = 20
 
 //validaciones
 
