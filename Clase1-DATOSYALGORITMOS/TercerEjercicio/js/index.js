@@ -29,7 +29,7 @@ let gananciaDElComercioFinal = calcularGanancia(ganancioDelDia,porcentajeParaSue
 
 console.log("*********Ganancia de la Pizzeria*********")
 console.log("\n")
-console.log("La ganancia del día fue" + ganancioDelDia)
+console.log("La ganancia del día fue " + ganancioDelDia)
 console.log("La pizzeria ganó: " + gananciaDElComercioFinal)
 console.log("Hay " + REPARTIDORES + " repartidores")
 console.log("Cada Repartidor Ganó: " + sueldoNetoRepartido)
